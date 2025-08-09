@@ -1,0 +1,3 @@
+<template>
+  <div class="text-muted-foreground text-sm"><slot /></div>
+</template>
