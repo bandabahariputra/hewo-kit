@@ -33,7 +33,7 @@ const sizeClass = computed(
   () =>
     ({
       sm: 'h-8 rounded px-2 text-sm',
-      md: 'h-9 rounded-md px-2.5 py-2',
+      md: 'h-9 rounded-md px-2.5',
       lg: 'h-10 rounded-lg px-3',
     })[props.size],
 );

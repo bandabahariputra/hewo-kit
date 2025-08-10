@@ -49,42 +49,6 @@ import BaseTypography from './components/BaseTypography/BaseTypography.vue';
           </div>
         </template>
       </BaseCard>
-      <BaseTypography type="h1">
-        Taxing Laughter: The Joke Tax Chronicles
-      </BaseTypography>
-      <BaseTypography type="h2"> The People of the Kingdom </BaseTypography>
-      <BaseTypography type="h3"> The Joke Tax </BaseTypography>
-      <BaseTypography type="h4"> People stopped telling jokes </BaseTypography>
-      <div>
-        <BaseTypography>
-          The king, seeing how much happier his subjects were, realized the
-          error of his ways and repealed the joke tax.
-        </BaseTypography>
-        <BaseTypography>
-          The king, seeing how much happier his subjects were, realized the
-          error of his ways and repealed the joke tax.
-        </BaseTypography>
-        <BaseTypography>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore fugiat
-          voluptatibus libero quibusdam reprehenderit alias fuga accusantium
-          quo, consequuntur cupiditate ab aliquam totam dolor blanditiis dicta
-          fugit impedit saepe ipsa?
-        </BaseTypography>
-      </div>
-      <BaseTypography type="blockquote">
-        &quot;After all,&quot; he said, &quot;everyone enjoys a good joke, so
-        it&apos;s only fair that they should pay for the privilege.&quot;
-      </BaseTypography>
-      <BaseTypography type="inline-code">
-        @radix-ui/react-alert-dialog
-      </BaseTypography>
-      <BaseTypography type="lead">
-        A modal dialog that interrupts the user with important content and
-        expects a response.
-      </BaseTypography>
-      <BaseTypography type="large"> Are you absolutely sure? </BaseTypography>
-      <BaseTypography type="small"> Email address </BaseTypography>
-      <BaseTypography type="muted"> Enter your email address. </BaseTypography>
     </div>
   </div>
 </template>

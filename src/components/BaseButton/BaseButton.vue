@@ -64,7 +64,7 @@ const sizeClass = computed(
   () =>
     ({
       sm: 'h-8 gap-1.5 px-3',
-      md: 'h-9 px-4 py-2',
+      md: 'h-9 px-4',
       lg: 'h-10 px-6',
     })[props.size],
 );
